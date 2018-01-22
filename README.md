@@ -1,7 +1,7 @@
 # ImageGalleryCat
 Vanilla JavaScript | ES6 | NO jQuery
 
-Just clone/download the application and run in the browser to see amazing cats on your screen.
+Just clone/download the application and run in the `browser` to see amazing cats on your screen.
 
 Add your own images, change the size of the images, play around with the grid template and lot more. 
 
